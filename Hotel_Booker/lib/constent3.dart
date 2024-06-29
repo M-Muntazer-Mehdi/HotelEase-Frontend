@@ -1,0 +1,43 @@
+const Meal_DATA = [
+  {
+    "name":"BreakFast",
+    "brand":"4-Star",
+    "price":12-20,
+    "image":"men1.jpg"
+  },{
+    "name":"Brunch",
+    "brand":"3-Star",
+    "price":35-52,
+    "image":"men2.jpg"
+  },
+  {
+    "name":"Lunch",
+    "brand":"4-Star",
+    "price":30-80,
+    "image":"men3.jpg"
+  },
+  {
+    "name":"Afternoon",
+    "brand":"4-Star",
+    "price":15-35,
+    "image":"men4.jpeg"
+  },
+  {
+    "name":"Dinner",
+    "brand":"4-Star",
+    "price":40-90,
+    "image":"men5.jpg"
+  },
+  {
+    "name":"Super",
+    "brand":"5-Star",
+    "price":70-150,
+    "image":"men6.jpeg"
+  },
+  {
+    "name":"Room Service menu",
+    "brand":"4-Star",
+    "price":60-100,
+    "image":"men7.jpg"
+  },
+];
