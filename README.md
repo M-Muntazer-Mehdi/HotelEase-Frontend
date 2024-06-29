@@ -1,5 +1,17 @@
-# HotelEase-Frontend
+## Table of Contents
+1. [Project Description](#hotelease-frontend)
+2. [Features](#features)
+   - [Authentication and Verification](#authentication-and-verification)
+   - [Overview and Settings](#overview-and-settings)
+   - [Hotel and Room Selection](#hotel-and-room-selection)
+   - [Order Meal Screen](#order-meal-screen)
+   - [Services from Hotel and Payment Screen](#services-from-hotel-and-payment-screen)
+3. [Installation](#installation)
+4. [APK File](#apk-file)
+5. [Contributing](#contributing)
 
+
+# HotelEase-Frontend
 HotelEase-Frontend is a sophisticated hotel booking application designed to streamline the reservation process and enhance user experience. It enables users to effortlessly book accommodations, arrange meal deliveries, and request additional hotel services via a user-friendly interface.
 
 ## Features
